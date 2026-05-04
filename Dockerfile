@@ -1,3 +1,3 @@
-FROM traefik:v3.0.3
+FROM traefik:v3.6.15
 
 RUN apk --no-cache add openssh
